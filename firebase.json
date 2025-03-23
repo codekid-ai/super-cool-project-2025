@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "super-cool-project-2025",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
